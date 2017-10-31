@@ -1,5 +1,5 @@
 {
-  "name": "sitebase 3 - npm gulp",
+  "name": "sitebase",
   "version": "3.0.0",
   "description": "A minimal HTML + CSS + JS base front-end framework for simple web site projects using npm and gulp.",
   "main": "index.html",

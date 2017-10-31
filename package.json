@@ -1,7 +1,7 @@
 {
-  "name": "sitebase",
-  "version": "1.0.0",
-  "description": "A minimal HTML + CSS + JS base front-end framework for simple web site projects.",
+  "name": "sitebase 3 - npm gulp",
+  "version": "3.0.0",
+  "description": "A minimal HTML + CSS + JS base front-end framework for simple web site projects using npm and gulp.",
   "main": "index.html",
   "repository": "",
   "scripts": {

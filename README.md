@@ -2,6 +2,8 @@
 
 A npm gulp version of Site base. 2020 Update: upgraded to Gulp 4 via [Gulp Boilerplate](https://github.com/kieranphilipbrown/gulp-boilerplate) by [Kieran Brown](https://github.com/kieranphilipbrown).
 
+[View demo](https://kccnma.github.io/sitebase3-npmgulp/)
+
 
 ## Local install instructions:
 1. Make sure you have node and npm installed. See installation docs: (https://nodejs.org/en/). To confirm node and npm are installed:

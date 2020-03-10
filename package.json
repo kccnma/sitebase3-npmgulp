@@ -1,26 +1,33 @@
 {
-  "name": "sitebase",
-  "version": "3.0.0",
-  "description": "A minimal HTML + CSS + JS base front-end framework for simple web site projects using npm and gulp.",
-  "main": "index.html",
-  "repository": "",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Designer",
-  "license": "ISC",
-  "dependencies": {
-    "gulp": "^3.9.1",
-    "browser-sync": "^2.18.12",
-    "gulp-sass": "^3.1.0",
-    "gulp-util": "^3.0.8"
-  },
-  "devDependencies": {
-    "gulp-cache": "^0.4.6",
-    "gulp-imagemin": "^3.3.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-sequence": "^0.4.6",
-    "gulp-zip": "^4.0.0"
-  }
+    "name": "sitebase",
+    "version": "0.0.3",
+    "description": "A minimal HTML + CSS + JS base front-end framework for simple web site projects using npm and gulp. Latest version based on the Gulp 4 boilerplate by Kieran Brown.",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "gulp",
+        "build": "gulp build"
+    },
+    "author": "Designer",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+        "@babel/core": "^7.8.3",
+        "@babel/preset-env": "^7.8.3",
+        "browser-sync": "^2.26.7",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^6.1.0",
+        "gulp-babel": "^8.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-htmlmin": "^5.0.1",
+        "gulp-imagemin": "^5.0.3",
+        "gulp-sass": "^4.0.2",
+        "gulp-uglify": "^3.0.2",
+        "gulp-watch": "^5.0.1",
+        "lodash": ">=4.17.13",
+        "lodash.mergewith": ">=4.6.2",
+        "mixin-deep": "^2.0.1",
+        "node-sass": "^4.13.1",
+        "set-value": "^3.0.1"
+    }
 }

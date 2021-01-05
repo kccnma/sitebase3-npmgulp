@@ -1,6 +1,6 @@
 # Sitebase npm gulp version
 
-A npm gulp version of Site base. 2020 Update: upgraded to Gulp 4 via [Gulp Boilerplate](https://github.com/kieranphilipbrown/gulp-boilerplate) by [Kieran Brown](https://github.com/kieranphilipbrown).
+A npm gulp version of [Sitebase](https://github.com/kccnma/sitebase/). 2020 Update: upgraded to Gulp 4 via [Gulp Boilerplate](https://github.com/kieranphilipbrown/gulp-boilerplate) by [Kieran Brown](https://github.com/kieranphilipbrown).
 
 [View demo](https://kccnma.github.io/sitebase3-npmgulp/)
 
